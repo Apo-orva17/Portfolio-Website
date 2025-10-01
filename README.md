@@ -1,22 +1,60 @@
-# Portfolio-Website
+# Apoorva's Portfolio Website
 
-#Description:
+## Overview
 
-This Portfolio Website is a personal web application created using responsive JavaScript, HTML, and CSS. It serves as a digital showcase of my skills, projects, and professional journey. The website is designed to provide visitors with an engaging and informative experience, highlighting my work and expertise in web development.
+This is a modern, responsive portfolio website designed to showcase my skills, projects, and contact information. Built with HTML, CSS, and JavaScript, the site provides a clean and engaging user experience for potential employers, collaborators, and visitors.
 
-#Features:
+## Features
 
-Responsive Design: The website is fully responsive, ensuring a seamless experience across various devices and screen sizes.
-Project Showcase: A dedicated section that lists all my projects, complete with descriptions, technologies used, and links to live demos or repositories.
-Skills Overview: A comprehensive display of my technical skills, showcasing my proficiency in various programming languages and frameworks.
-Contact Information: Easy access to my contact details for potential collaborations or inquiries.
-User-Friendly Navigation: Intuitive navigation for a smooth browsing experience.
+- **Responsive Design:** Optimized for desktops, tablets, and mobile devices.
+- **Skills Section:** Highlights technical proficiencies in web and software development.
+- **Project Showcase:** Displays completed projects with descriptions and direct links to GitHub repositories.
+- **Contact Form:** Allows visitors to send messages directly.
+- **Social Media Integration:** Quick access to LinkedIn, Twitter, Instagram, and GitHub.
+- **Downloadable Resume:** Easy access to a PDF resume.
 
-#Technologies Used:
+## Technologies Used
 
-HTML
-CSS
-JavaScript for interactivity and responsiveness
+- **HTML5** – Structure and content
+- **CSS3** – Styling and layout ([style.css](style.css), [responsive.css](responsive.css))
+- **JavaScript** – Interactivity ([script.js](script.js))
+- **Boxicons** – Icon library
 
+## Getting Started
 
-This portfolio website serves as a reflection of my work and capabilities, providing a platform to connect with potential employers, clients, and collaborators.
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/Apo-orva17/Portfolio-Website.git
+   ```
+2. **Navigate to the project directory:**
+   ```sh
+   cd Portfolio-Website
+   ```
+3. **Open `index.html` in your preferred web browser.**
+
+## File Structure
+
+- `index.html` – Main HTML file
+- `style.css` – Core styles
+- `responsive.css` – Responsive styles for various devices
+- `script.js` – JavaScript for navigation and interactivity
+- `img1.jpg` – Profile image
+- `resume_latest.pdf` – Downloadable resume
+
+## Projects
+
+- [Amazon UI Clone](https://github.com/Apo-orva17/Amazon-clone-website)
+- [To-Do List](https://github.com/Apo-orva17/To-DoList)
+- [Miranda Paper Portfolio](https://github.com/Apo-orva17/Miranda-Paper-Portfolio)
+- [Online Code Editor](https://github.com/Apo-orva17/Online-Code-Editor)
+- [Bank Management System](https://github.com/Apo-orva17/Bank-Managment-System)
+- [Billing System using OOPs](https://github.com/Apo-orva17/Bill-System)
+-etc
+
+## Contact
+
+For inquiries or collaborations, use the contact form on the website or connect via [LinkedIn](https://www.linkedin.com/in/apoorva-rupnarayan-ab0b1428b/).
+
+---
+
+**Apoorva | All Rights Reserved**
